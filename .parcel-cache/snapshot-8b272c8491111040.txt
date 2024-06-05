@@ -5,7 +5,7 @@
 70D:\Code\Portfolio\bloomtech_github_usercard\node_modules\shebang-regex133620971926128191 1
 94D:\Code\Portfolio\bloomtech_github_usercard\node_modules\caniuse-lite\data\features\wasm-gc.js133620971965376810 0
 99D:\Code\Portfolio\bloomtech_github_usercard\node_modules\json-parse-even-better-errors\package.json133620971923372212 0
-71D:\Code\Portfolio\bloomtech_github_usercard\dist\index.9e4c6fd2.css.map133620975311048259 0
+71D:\Code\Portfolio\bloomtech_github_usercard\dist\index.9e4c6fd2.css.map133620976338224770 0
 101D:\Code\Portfolio\bloomtech_github_usercard\node_modules\csso\node_modules\mdn-data\css\syntaxes.json133620971934907628 0
 65D:\Code\Portfolio\bloomtech_github_usercard\node_modules\svgo\lib133620971936937329 1
 132D:\Code\Portfolio\bloomtech_github_usercard\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\filesystem.js133620971925142542 0
@@ -17,7 +17,7 @@
 86D:\Code\Portfolio\bloomtech_github_usercard\node_modules\@parcel\cache\lib\IDBCache.js133620971929267567 0
 72D:\Code\Portfolio\bloomtech_github_usercard\node_modules\debug\README.md133620971928665715 0
 76D:\Code\Portfolio\bloomtech_github_usercard\node_modules\keyv\src\index.d.ts133620971925067239 0
-48D:\Code\Portfolio\bloomtech_github_usercard\dist133620975311229242 1
+48D:\Code\Portfolio\bloomtech_github_usercard\dist133620976338274762 1
 98D:\Code\Portfolio\bloomtech_github_usercard\node_modules\eslint\lib\rules\no-restricted-exports.js133620971952499891 0
 66D:\Code\Portfolio\bloomtech_github_usercard\node_modules\base64-js133620971927180336 1
 86D:\Code\Portfolio\bloomtech_github_usercard\node_modules\source-map-js\source-map.d.ts133620971932547320 0
@@ -26,12 +26,11 @@
 82D:\Code\Portfolio\bloomtech_github_usercard\node_modules\domutils\lib\traversal.js133620971929767400 0
 73D:\Code\Portfolio\bloomtech_github_usercard\node_modules\uri-js\README.md133620971937465299 0
 77D:\Code\Portfolio\bloomtech_github_usercard\node_modules\strip-ansi\readme.md133620971925577560 0
+72D:\Code\Portfolio\bloomtech_github_usercard\dist\lambdalogo.b9effeda.png133620976338024497 0
 101D:\Code\Portfolio\bloomtech_github_usercard\node_modules\caniuse-lite\data\features\scrollintoview.js133620971963621088 0
 77D:\Code\Portfolio\bloomtech_github_usercard\node_modules\eslint-scope\LICENSE133620971922769174 0
-72D:\Code\Portfolio\bloomtech_github_usercard\dist\lambdalogo.b9effeda.png133620975310832972 0
 68D:\Code\Portfolio\bloomtech_github_usercard\node_modules\json-buffer133620971926938784 1
 111D:\Code\Portfolio\bloomtech_github_usercard\node_modules\csso\node_modules\mdn-data\api\inheritance.schema.json133620971931989326 0
-70D:\Code\Portfolio\bloomtech_github_usercard\dist\index.413042e7.js.map133620975311219226 0
 79D:\Code\Portfolio\bloomtech_github_usercard\node_modules\nth-check\package.json133620971929622020 0
 92D:\Code\Portfolio\bloomtech_github_usercard\node_modules\eslint\lib\rules\no-return-await.js133620971952680236 0
 77D:\Code\Portfolio\bloomtech_github_usercard\node_modules\flat-cache\README.md133620971923515398 0
@@ -40,8 +39,8 @@
 94D:\Code\Portfolio\bloomtech_github_usercard\node_modules\htmlnano\lib\modules\mergeScripts.cjs133620971931858203 0
 101D:\Code\Portfolio\bloomtech_github_usercard\node_modules\caniuse-lite\data\features\viewport-units.js133620971965281670 0
 77D:\Code\Portfolio\bloomtech_github_usercard\node_modules\nullthrows\README.md133620971927295437 0
+66D:\Code\Portfolio\bloomtech_github_usercard\dist\index.413042e7.js133620976338159605 0
 89D:\Code\Portfolio\bloomtech_github_usercard\node_modules\eslint\lib\rules\no-lonely-if.js133620971950768577 0
-66D:\Code\Portfolio\bloomtech_github_usercard\dist\index.413042e7.js133620975311189225 0
 84D:\Code\Portfolio\bloomtech_github_usercard\node_modules\node-addon-api\node_api.gyp133620971924205646 0
 76D:\Code\Portfolio\bloomtech_github_usercard\node_modules\ansi-styles\license133620971922729183 0
 91D:\Code\Portfolio\bloomtech_github_usercard\node_modules\eslint\lib\rules\no-extra-label.js133620971950016088 0
@@ -85,7 +84,6 @@
 88D:\Code\Portfolio\bloomtech_github_usercard\node_modules\caniuse-lite\data\regions\IE.js133620971958366523 0
 72D:\Code\Portfolio\bloomtech_github_usercard\node_modules\globals\license133620971922759180 0
 83D:\Code\Portfolio\bloomtech_github_usercard\node_modules\csso\cjs\replace\color.cjs133620971932588474 0
-72D:\Code\Portfolio\bloomtech_github_usercard\dist\githublogo.469c54ba.png133620975310832972 0
 93D:\Code\Portfolio\bloomtech_github_usercard\node_modules\uri-js\dist\esnext\schemes\mailto.js133620971928096680 0
 66D:\Code\Portfolio\bloomtech_github_usercard\node_modules\@mischnic133620971913029046 1
 88D:\Code\Portfolio\bloomtech_github_usercard\node_modules\caniuse-lite\data\regions\ET.js133620971954290417 0
@@ -94,8 +92,8 @@
 104D:\Code\Portfolio\bloomtech_github_usercard\node_modules\@parcel\core\src\requests\BundleGraphRequest.js133620971939306200 0
 89D:\Code\Portfolio\bloomtech_github_usercard\node_modules\graphemer\lib\Graphemer.d.ts.map133620971933583719 0
 77D:\Code\Portfolio\bloomtech_github_usercard\node_modules\resolve-from\license133620971924532572 0
+67D:\Code\Portfolio\bloomtech_github_usercard\dist\index.9e4c6fd2.css133620976338204786 0
 119D:\Code\Portfolio\bloomtech_github_usercard\node_modules\@parcel\core\test\fixtures\custom-targets-distdir\package.json133620971949327829 0
-67D:\Code\Portfolio\bloomtech_github_usercard\dist\index.9e4c6fd2.css133620975311028264 0
 92D:\Code\Portfolio\bloomtech_github_usercard\node_modules\mdn-data\css\properties.schema.json133620971933908820 0
 73D:\Code\Portfolio\bloomtech_github_usercard\node_modules\msgpackr\LICENSE133620971922578985 0
 91D:\Code\Portfolio\bloomtech_github_usercard\node_modules\type-fest\source\set-required.d.ts133620971936786449 0
@@ -108,7 +106,6 @@
 75D:\Code\Portfolio\bloomtech_github_usercard\node_modules\htmlnano\docs\docs133620971941559820 1
 94D:\Code\Portfolio\bloomtech_github_usercard\node_modules\type-fest\source\set-return-type.d.ts133620971936937329 0
 88D:\Code\Portfolio\bloomtech_github_usercard\node_modules\msgpackr\dist\index-no-eval.cjs133620971924779605 0
-59D:\Code\Portfolio\bloomtech_github_usercard\dist\index.html133620975311104173 0
 117D:\Code\Portfolio\bloomtech_github_usercard\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\060-contribute.md133620971941778406 0
 77D:\Code\Portfolio\bloomtech_github_usercard\node_modules\htmlnano\index.d.mts133620971944739394 0
 83D:\Code\Portfolio\bloomtech_github_usercard\node_modules\utility-types\CHANGELOG.md133620971931345858 0
@@ -180,7 +177,7 @@
 61D:\Code\Portfolio\bloomtech_github_usercard\package-lock.json133620972055278886 0
 80D:\Code\Portfolio\bloomtech_github_usercard\node_modules\js-yaml\lib\type\seq.js133620971935577666 0
 83D:\Code\Portfolio\bloomtech_github_usercard\node_modules\lightningcss\node\ast.d.ts133620971932976023 0
-56D:\Code\Portfolio\bloomtech_github_usercard\package.json133620975166285033 0
+56D:\Code\Portfolio\bloomtech_github_usercard\package.json133620976336485308 0
 88D:\Code\Portfolio\bloomtech_github_usercard\node_modules\caniuse-lite\data\regions\NZ.js133620971962039397 0
 93D:\Code\Portfolio\bloomtech_github_usercard\node_modules\svgo\plugins\removeOffCanvasPaths.js133620971942620590 0
 67D:\Code\Portfolio\bloomtech_github_usercard\node_modules\concat-map133620971928066638 1
@@ -7471,3 +7468,6 @@
 66D:\Code\Portfolio\bloomtech_github_usercard\node_modules\.bin\svgo133620971966188690 0
 70D:\Code\Portfolio\bloomtech_github_usercard\node_modules\.bin\svgo.cmd133620971966188690 0
 63D:\Code\Portfolio\bloomtech_github_usercard\GitHubCard\index.js133620943405654466 0
+72D:\Code\Portfolio\bloomtech_github_usercard\dist\githublogo.469c54ba.png133620976338034506 0
+70D:\Code\Portfolio\bloomtech_github_usercard\dist\index.413042e7.js.map133620976338204786 0
+59D:\Code\Portfolio\bloomtech_github_usercard\dist\index.html133620976338264792 0
