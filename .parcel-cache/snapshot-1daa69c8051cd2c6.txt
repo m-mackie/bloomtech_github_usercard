@@ -49,7 +49,7 @@
 113D:\Code\Portfolio\bloomtech_github_usercard\node_modules\css-select\node_modules\entities\lib\esm\decode.d.ts.map133620971936886795 0
 73D:\Code\Portfolio\bloomtech_github_usercard\node_modules\rimraf\README.md133620971927570639 0
 105D:\Code\Portfolio\bloomtech_github_usercard\node_modules\@parcel\optimizer-svgo\node_modules\svgo\LICENSE133620971922849315 0
-54D:\Code\Portfolio\bloomtech_github_usercard\.gitignore133620948609058621 0
+54D:\Code\Portfolio\bloomtech_github_usercard\.gitignore133620979714024615 0
 88D:\Code\Portfolio\bloomtech_github_usercard\node_modules\source-map\lib\binary-search.js133620971929227406 0
 93D:\Code\Portfolio\bloomtech_github_usercard\node_modules\css-select\node_modules\entities\lib133620971941519794 1
 63D:\Code\Portfolio\bloomtech_github_usercard\example-preview.png133620801609923951 0
@@ -61,7 +61,7 @@
 54D:\Code\Portfolio\bloomtech_github_usercard\GitHubCard133620965801119296 1
 95D:\Code\Portfolio\bloomtech_github_usercard\node_modules\cross-spawn\lib\util\resolveCommand.js133620971928665715 0
 99D:\Code\Portfolio\bloomtech_github_usercard\node_modules\svgo\plugins\removeAttributesBySelector.js133620971941226850 0
-54D:\Code\Portfolio\bloomtech_github_usercard\index.html133620962297762385 0
+54D:\Code\Portfolio\bloomtech_github_usercard\index.html133620986027392680 0
 86D:\Code\Portfolio\bloomtech_github_usercard\node_modules\source-map\dist\source-map.js133620971934787441 0
 108D:\Code\Portfolio\bloomtech_github_usercard\node_modules\css-select\node_modules\dom-serializer\lib\index.js133620971927615716 0
 72D:\Code\Portfolio\bloomtech_github_usercard\node_modules\tslib\README.md133620971929367620 0
@@ -7470,7 +7470,7 @@
 68D:\Code\Portfolio\bloomtech_github_usercard\node_modules\.bin\semver133620971966188690 0
 66D:\Code\Portfolio\bloomtech_github_usercard\node_modules\.bin\svgo133620971966188690 0
 70D:\Code\Portfolio\bloomtech_github_usercard\node_modules\.bin\svgo.cmd133620971966188690 0
-63D:\Code\Portfolio\bloomtech_github_usercard\GitHubCard\index.js133620943405654466 0
+63D:\Code\Portfolio\bloomtech_github_usercard\GitHubCard\index.js133620984755454468 0
 72D:\Code\Portfolio\bloomtech_github_usercard\dist\githublogo.469c54ba.png133620976338034506 0
 72D:\Code\Portfolio\bloomtech_github_usercard\dist\githublogo.f8eb59e3.png133620978878385582 0
 66D:\Code\Portfolio\bloomtech_github_usercard\dist\index.39a3e8c0.js133620978881114777 0
