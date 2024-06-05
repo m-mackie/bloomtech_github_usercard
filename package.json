@@ -2,7 +2,8 @@
     "name": "github-usercard",
     "version": "1.0.0",
     "scripts": {
-      "start": "parcel build index.html"
+      "start": "parcel build index.html",
+      "build": "parcel build"
     },
     "repository": {
       "type": "git",
@@ -17,7 +18,7 @@
     "homepage": "https://github.com/BloomInstituteOfTechnology/github-usercard#readme",
     "devDependencies": {
       "eslint": "^8.10.0",
-      "parcel-bundler": "^1.12.4"
+      "parcel": "^2.0.0"
     },
     "dependencies": {
         "axios": "1.7.2"
