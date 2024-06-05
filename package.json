@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "scripts": {
         "start": "index.html",
-        "build": "build index.html"
+        "build": "parcel build index.html"
     },
     "repository": {
         "type": "git",
