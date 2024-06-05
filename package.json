@@ -2,25 +2,26 @@
     "name": "github-usercard",
     "version": "1.0.0",
     "scripts": {
-      "start": "parcel build index.html",
-      "build": "parcel build"
+        "start": "parcel build index.html",
+        "build": "parcel build"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/BloomInstituteOfTechnology/github-usercard.git"
+        "type": "git",
+        "url": "git+https://github.com/BloomInstituteOfTechnology/github-usercard.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/BloomInstituteOfTechnology/github-usercard/issues"
+        "url": "https://github.com/BloomInstituteOfTechnology/github-usercard/issues"
     },
     "homepage": "https://github.com/BloomInstituteOfTechnology/github-usercard#readme",
     "devDependencies": {
-      "eslint": "^8.10.0",
-      "parcel": "^2.0.0"
+        "eslint": "^8.10.0",
+        "parcel": "^2.0.0"
     },
     "dependencies": {
+        "@parcel/watcher": "^2.4.1",
         "axios": "1.7.2"
     }
-  }
+}
