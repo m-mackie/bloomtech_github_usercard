@@ -2,7 +2,7 @@
     "name": "github-usercard",
     "version": "1.0.0",
     "scripts": {
-      "start": "parcel build index.html",
+      "start": "parcel start src/index.html",
       "build": "parcel build src/index.html"
     },
     "repository": {
