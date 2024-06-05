@@ -11,9 +11,6 @@ axios
         })
         .catch(error => {console.log("Error Message", error);
       });
-    
-
-
 
         /* Step 2: Inspect and study the data coming back, this is YOUR 
            github info! You will need to understand the structure of this 
